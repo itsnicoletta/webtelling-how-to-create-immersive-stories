@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Vue 3 + Vite
+this is my thesis personal project.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+its an immersive story m,ade with vue and vite, three.js, tailwind and spline
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-=======
-# webtelling-how-to-create-immersive-stories
->>>>>>> 003427596fe29d8a822512880da2afda0a3c5b88
